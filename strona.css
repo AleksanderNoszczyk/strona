@@ -107,3 +107,42 @@ footer{
     margin-right: 230px;
     margin-top: 100px;
 }
+button{
+    margin: 15px;
+    float: right;
+    background-color: #FFD100;
+    color: #202020;
+    border-radius: 40%;
+    border-style: none;
+}
+
+button:hover{
+    margin: 15px;
+    float: right;
+    background-color: #202020;
+    color: #FFD100;
+    border-radius: 40%;
+    border-style: none;
+    border-style: solid;
+    border-color: #FFD100;
+}
+.Jakub:hover{
+    border: #FFD100;
+    border-style: solid;
+}
+.Bartek:hover{
+    border: #FFD100;
+    border-style: solid;
+}
+.Tomek:hover{
+    border: #FFD100;
+    border-style: solid;
+}
+.Michał:hover{
+    border: #FFD100;
+    border-style: solid;
+}
+.Mateusz:hover{
+    border: #FFD100;
+    border-style: solid;
+}
