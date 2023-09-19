@@ -91,7 +91,6 @@ h1{
 }
 footer{
     background-color: #FFD100;
-    position: absolute;
     width: 100%;
     margin-top: 100px;
     padding-bottom: 30px;
@@ -101,11 +100,13 @@ footer{
     font-size: 24px;
 }
 .main{
+    overflow-y: scroll;
     background-color: #202020;
     color: white;
     margin-left: 230px;
     margin-right: 230px;
     margin-top: 100px;
+    margin-bottom: 200px;
 }
 button{
     margin: 15px;
