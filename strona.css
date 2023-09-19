@@ -1,0 +1,109 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    background-color: #333533;
+}
+nav{
+    padding: 20px;
+    margin: 0%;
+    background-color: #FFD100;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+}
+
+.Jakub{
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    margin-left: 230px;
+    margin-top: 50px;
+    border-radius: 5%;
+    background-color: #202020;
+    color:white;
+    text-align: center;
+}
+.Bartek{
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    border-radius: 5%;
+    background-color: #202020;
+    color:white;
+    text-align: center;
+}
+.Mateusz{
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 5%;
+    background-color: #202020;
+    color:white;
+    text-align: center;
+}
+.Tomek{
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    border-radius: 5%;
+    background-color: #202020;
+    color:white;
+    text-align: center;
+}
+.Michał{
+    width: 250px;
+    height: 500px;
+    padding: 20px;
+    margin-right: 230px;
+    margin-top: 50px;
+    border-radius: 5%;
+    background-color: #202020;
+    color:white;
+    text-align: center;
+}
+img{
+    border-radius: 150%;
+    padding: 3px;
+    background-color: #FFD100;
+    width: 200px;
+    height: 200px;
+}
+p{
+    float: left ;
+    font-size: 18px;
+}
+h1{
+    float:left ;
+    font-size: 24px;
+}
+footer{
+    background-color: #FFD100;
+    position: absolute;
+    width: 100%;
+    margin-top: 100px;
+    padding-bottom: 30px;
+    bottom: 0%;
+    text-align: center;
+    color: #202020;
+    font-size: 24px;
+}
+.main{
+    background-color: #202020;
+    color: white;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 100px;
+}
